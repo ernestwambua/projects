@@ -2,15 +2,15 @@
 
 This is a student time management program.
 
-![](images/login-page-final.png)
+![[images/login-page-final.png]]
 
-![](images/create-account-page-final.png)
+![[images/create-account-page-final.png]]
 
-![](images/home-page-final.png)
+![[images/home-page-final.png]]
 
-![](images/units-page-final.png)
+![[images/units-page-final.png]]
 
-![](images/reminders-page-final.png)
+![[images/reminders-page-final.png]]
 
 ![](images/tests-page-final.png)
 
