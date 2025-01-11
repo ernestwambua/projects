@@ -2,11 +2,11 @@
 
 A real-time chat application
 
-![[ping-chat1.png]]
+![[images/ping-chat1.png]]
 
-![[ping-chat2.png]]
+![[images/ping-chat2.png]]
 
-![[ping-chat3.png]]
+![[images/ping-chat3.png]]
 
 ## Table Of Contents
 - [PingChat](#pingchat)
