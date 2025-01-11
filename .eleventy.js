@@ -4,6 +4,8 @@ module.exports = function (eleventyConfig) {
   // Add syntax highlighting
   eleventyConfig.addPlugin(syntaxHighlight);
 
+  eleventyConfig.addGlobalData("layout", "base.njk");
+
   // Handle asset copying
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("assets");
