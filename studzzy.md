@@ -12,11 +12,11 @@ This is a student time management program.
 
 ![[images/reminders-page-final.png]]
 
-![](images/tests-page-final.png)
+![[images/tests-page-final.png]]
 
-![](images/submissions-page-final.png)
+![[images/submissions-page-final.png]]
 
-![](images/lounge-page-3.png)
+![[images/lounge-page-3.png]]
 
 ## Setup
 

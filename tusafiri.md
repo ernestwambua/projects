@@ -4,11 +4,11 @@ This is a bus booking and ticketing system that allows users to book buses to va
 
 It can also be used by the transport companies to plan trip logistics and also conduct courier services
 
-![webapp home](./images/webapp_home.png)
+![[images/webapp_home.png]]
 
-![admin home](./images/admin_home.png)
+![[images/admin_home.png]]
 
-![invoice](./images/invoice.png)
+![[images/invoice.png]]
 
 ## Running
 

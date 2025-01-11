@@ -2,11 +2,11 @@
 
 A real-time chat application
 
-![home](./images/Screenshot%20from%202023-02-26%2000-37-43.png)
+![[ping-chat1.png]]
 
-![login](./images/Screenshot%20from%202023-02-26%2011-45-19.png)
+![[images/Screenshot%20from%202023-02-26%2011-45-19.png]]
 
-![signup](./images/Screenshot%20from%202023-02-26%2011-45-25.png)
+![[images/Screenshot%20from%202023-02-26%2011-45-25.png]]
 
 ## Table Of Contents
 - [PingChat](#pingchat)
