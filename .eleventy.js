@@ -22,7 +22,7 @@ module.exports = function (eleventyConfig) {
 
     // Fix image paths if needed
     content = content.replace(/!\[\[(.*?)\]\]/g, function (match, p1) {
-      return `<img src='/images/${p1}' />`;
+      return `<img src='/${p1}' />`;
     });
 
     return content;
@@ -44,7 +44,7 @@ module.exports = function (eleventyConfig) {
       input: ".",    // Look for source files in articles directory
       output: "_site",      // Output to _site directory
       includes: "_includes",  // Look for includes in parent directory
-      layouts: "_includes/layouts"
+      layouts: "_includes"
     },         // Update this if site is not at root of domain
     templateFormats: ["md", "njk"],
     markdownTemplateEngine: "njk"
