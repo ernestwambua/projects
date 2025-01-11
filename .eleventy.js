@@ -4,7 +4,7 @@ module.exports = function (eleventyConfig) {
   // Add syntax highlighting
   eleventyConfig.addPlugin(syntaxHighlight);
 
-  eleventyConfig.addGlobalData("layout", "base.njk");
+  eleventyConfig.addGlobalData("layout", "layouts/base.njk");
 
   // Handle asset copying
   eleventyConfig.addPassthroughCopy("images");
@@ -44,7 +44,7 @@ module.exports = function (eleventyConfig) {
       input: ".",    // Look for source files in articles directory
       output: "_site",      // Output to _site directory
       includes: "_includes",  // Look for includes in parent directory
-      layouts: "_includes"
+      layouts: "_includes/layouts"
     },         // Update this if site is not at root of domain
     templateFormats: ["md", "njk"],
     markdownTemplateEngine: "njk"
