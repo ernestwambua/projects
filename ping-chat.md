@@ -1,6 +1,6 @@
 # PingChat
 
-A realtime chat application
+A real-time chat application
 
 ![home](./images/Screenshot%20from%202023-02-26%2000-37-43.png)
 

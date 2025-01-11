@@ -1,10 +1,10 @@
 # Swlang
 
-A swahili based programming language
+A Swahili based programming language
 
 ## Introduction
 
-Swlang is just another programming language that uses swahili keywords and actions.
+Swlang is just another programming language that uses Swahili keywords and actions.
 This is just a fun side project that will help anyone understand the inner workings of compilers and interpreters
 
 ## How it Works!
