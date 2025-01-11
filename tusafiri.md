@@ -1,6 +1,8 @@
 # Tusafiri Project
 
-This is a bus booking and ticketing system that allows people to book buses to various destinations from the comfort of their home.
+This is a bus booking and ticketing system that allows users to book buses to various destinations from the comfort of their homes.
+
+It can also be used by the transport companies to plan trip logistics and also conduct courier services
 
 ![webapp home](./images/webapp_home.png)
 
