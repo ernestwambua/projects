@@ -4,9 +4,9 @@ A real-time chat application
 
 ![[ping-chat1.png]]
 
-![[images/Screenshot%20from%202023-02-26%2011-45-19.png]]
+![[ping-chat2.png]]
 
-![[images/Screenshot%20from%202023-02-26%2011-45-25.png]]
+![[ping-chat3.png]]
 
 ## Table Of Contents
 - [PingChat](#pingchat)
@@ -46,7 +46,7 @@ PingChat is a Realtime chat application where users can talk to strangers anonym
 
 ## Running the application
 
-In case you encounter any issues when running the application, feel free to reach me via [ernestwambua2@gmail.com]()
+In case you encounter any issues when running the application, feel free to reach me via [ernestwambua2@gmail.com](mailto:ernestwambua2@gmail.com)
 
 First of all you need to clone the contents of this repository using git.
 
